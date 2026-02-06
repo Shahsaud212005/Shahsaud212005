@@ -1,6 +1,6 @@
 # Hi, I'm Saud 👋
 
-I am a Business Administration student and an aspiring Python Developer. 
+I am an aspiring Python Developer. 
 I am currently learning how to use code to solve business problems and automate data collection.
 
 ### 🛠 Technical Interests
